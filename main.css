@@ -7,3 +7,46 @@
 body {
     background-color: aquamarine; 
 }
+#purchases {
+    width: 50%;
+    height: auto;
+    padding: 10px;
+    background-color: aqua;
+    margin: 10px;
+    display: block;
+    float: right;
+    border-radius: 25px;
+    text-align: center;
+}
+#clamArt {
+    height: 189px;
+    width: 267px;
+    margin: 10px;
+    position: relative;
+}
+.text {
+    font-family: "inherit", cursive, sans-serif;
+    font-size: 25px;
+}
+.btn {
+    background-color: cyan;
+    border: none;
+    border-radius: 25px;
+    display: inline-block;
+    clear: both;
+    width: auto;
+    padding: 15px;
+    margin: 10px;
+}
+
+.title{
+    font-size: 20px;
+}
+.small {
+    font-size: 15px; 
+}
+#clamArt {
+   height: 189px;
+    width: 267px;
+    cursor: pointer;
+}
